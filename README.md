@@ -1,7 +1,3 @@
-# testrepo
+Kaggle Titanic ML Datasets
 
-Editing the file
-
-Its a markdown file in this repository
-
-I am editing my child branch. The main branch will not be affected.
+Aim : Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
